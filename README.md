@@ -5,7 +5,7 @@
 This project analyzes customer sentiment towards Apollo Pharmacy through Twitter data analysis. It includes tweet scraping, sentiment analysis, and visualization of customer feedback trends.
 
 ## Features
-- Custom tweet dataset generation (500 tweets)
+- Tweet dataset generation (500 tweets)
 - Sentiment analysis using VADER
 - Data cleaning and preprocessing
 - Visualization of sentiment trends
