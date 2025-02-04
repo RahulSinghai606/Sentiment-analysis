@@ -27,36 +27,20 @@ webdriver_manager
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/apollo-pharmacy-sentiment
-cd apollo-pharmacy-sentiment
+git clone https://github.com/RahulSinghai606/Sentiment-analysis
+cd Sentiment-analysis
 pip install -r requirements.txt
 ```
 
 ## Usage
-1. Generate dataset:
+
+
+1. Run sentiment analysis:
 ```python
-python generate_tweets.py
+python dog4.py
 ```
 
-2. Run sentiment analysis:
-```python
-python sentiment_analysis.py
-```
 
-## Project Structure
-```
-apollo-pharmacy-sentiment/
-├── data/
-│   └── apollo_pharmacy_tweets.csv
-├── src/
-│   ├── generate_tweets.py
-│   ├── sentiment_analysis.py
-│   └── utils.py
-├── notebooks/
-│   └── analysis.ipynb
-├── requirements.txt
-└── README.md
-```
 
 ## Data Format
 The generated dataset includes:
